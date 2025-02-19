@@ -1,1 +1,1 @@
-console.log("Allah akbar");
+// console.log("Allah akbar");
